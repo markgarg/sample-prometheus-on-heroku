@@ -1,1 +1,1 @@
-web: prometheus
+web: /app/bin/prometheus
