@@ -3,5 +3,10 @@
   "description": "An example app that hosts Prometheus on Heroku",
   "repository": "https://github.com/markgarg/sample-prometheus-on-heroku",
   "logo": "https://prometheus.io/assets/prometheus_logo_grey.svg",
-  "keywords": ["prometheus", "sample"]
+  "keywords": ["prometheus", "sample"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-prometheus"
+    }
+  ]
 }
