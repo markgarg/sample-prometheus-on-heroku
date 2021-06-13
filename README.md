@@ -5,6 +5,10 @@ Uses [Heroku's unofficial buildpack](https://elements.heroku.com/buildpacks/hero
 More configuration to get it to actually deploy to Heroku.
 
 ## Installation
+Simplest option:  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)  
+
+### or you can do it manually:
 1. Login to Heroku via CLI
 2. Run 
     ```bash
