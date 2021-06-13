@@ -1,1 +1,1 @@
-web: /app/bin/prometheus
+web: /app/bin/prometheus --config.file=$HOME/prometheus.yml
