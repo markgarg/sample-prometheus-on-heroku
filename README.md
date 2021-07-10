@@ -2,7 +2,8 @@
 
 Uses [Heroku's unofficial buildpack](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-prometheus).
 
-More configuration to get it to actually deploy to Heroku.
+More configuration to get it to actually deploy to Heroku. I've blogged about this here: https://rohitmacherla.com/installing-prometheus-on-heroku.
+Perhaps you'd like to look at some advanced monitoring techniques for Salesforce.com as part of the [blog series](https://rohitmacherla.com/series-about-monitoring-your-salesforce-enterprise)?
 
 ## Installation
 Simplest option:  
