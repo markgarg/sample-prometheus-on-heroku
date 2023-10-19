@@ -5,4 +5,4 @@ scrape_configs:
   - job_name: 'prometheus'
     scrape_interval: 5s
     static_configs:
-      - targets: ['localhost']
+      - targets: ['https://save-all-worker-monitor.herokuapp.com/metrics']
